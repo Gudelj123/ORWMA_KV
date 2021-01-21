@@ -1,0 +1,182 @@
+[
+  {
+    "TeamID": 1,
+    "TeamName": "Golden State Warriors",
+    "TeamAbbr": "GSW",
+    "Location": "Oakland/California"
+  },
+  {
+    "TeamID": 2,
+    "TeamName": "Houston Rockets",
+    "TeamAbbr": "HOU",
+    "Location": "Houston/Texas"
+  },
+  {
+    "TeamID": 3,
+    "TeamName": "New Orleans Pelicans",
+    "TeamAbbr": "NOP",
+    "Location": "New Orleans/Louisiana"
+  },
+  {
+    "TeamID": 4,
+    "TeamName": "Toronto Raptors",
+    "TeamAbbr": "TOR",
+    "Location": "Toronto/Ontario"
+  },
+  {
+    "TeamID": 5,
+    "TeamName": "Cleveland Cavaliers",
+    "TeamAbbr": "CLE",
+    "Location": "Cleveland/Ohio"
+  },
+  {
+    "TeamID": 6,
+    "TeamName": "Denver Nuggets",
+    "TeamAbbr": "DEN",
+    "Location": "Denver/Colorado"
+  },
+  {
+    "TeamID": 7,
+    "TeamName": "Philadelphia 76ers",
+    "TeamAbbr": "PHI",
+    "Location": "Philadelphia/Pennsylvania"
+  },
+  {
+    "TeamID": 8,
+    "TeamName": "Minnesota Timberwolves",
+    "TeamAbbr": "MIN",
+    "Location": "Minneapolis/Minnesota"
+  },
+  {
+    "TeamID": 9,
+    "TeamName": "Los Angeles Clippers",
+    "TeamAbbr": "LAC",
+    "Location": "Los Angeles/California"
+  },
+  {
+    "TeamID": 10,
+    "TeamName": "Charlotte Hornets",
+    "TeamAbbr": "CHO",
+    "Location": "Charlotte/North Carolina"
+  },
+  {
+    "TeamID": 11,
+    "TeamName": "Los Angeles Lakers",
+    "TeamAbbr": "LAL",
+    "Location": "Los Angeles/California"
+  },
+  {
+    "TeamID": 12,
+    "TeamName": "Oklahoma City Thunder",
+    "TeamAbbr": "OKC",
+    "Location": "Oklahoma City/Oklahoma"
+  },
+  {
+    "TeamID": 13,
+    "TeamName": "Washington Wizards",
+    "TeamAbbr": "WAS",
+    "Location": "Washington DC"
+  },
+  {
+    "TeamID": 14,
+    "TeamName": "Brooklyn Nets",
+    "TeamAbbr": "BRK",
+    "Location": "Brooklyn/New York"
+  },
+  {
+    "TeamID": 15,
+    "TeamName": "Milwaukee Bucks",
+    "TeamAbbr": "MIL",
+    "Location": "Milwaukee/Wisconsin"
+  },
+  {
+    "TeamID": 16,
+    "TeamName": "Portland Trail Blazers",
+    "TeamAbbr": "POR",
+    "Location": "Portland / Oregon"
+  },
+  {
+    "TeamID": 17,
+    "TeamName": "Indiana Pacers",
+    "TeamAbbr": "IND",
+    "Location": "Indianapolis/Indiana"
+  },
+  {
+    "TeamID": 18,
+    "TeamName": "New York Knicks",
+    "TeamAbbr": "NYK",
+    "Location": "New York/New York"
+  },
+  {
+    "TeamID": 19,
+    "TeamName": "Utah Jazz",
+    "TeamAbbr": "UTA",
+    "Location": "Salt Lake City/Utah"
+  },
+  {
+    "TeamID": 20,
+    "TeamName": "Boston Celtics",
+    "TeamAbbr": "BOS",
+    "Location": "Boston/Massachusetts"
+  },
+  {
+    "TeamID": 21,
+    "TeamName": "Phoenix Suns",
+    "TeamAbbr": "PHO",
+    "Location": "Phoenix/Arizona"
+  },
+  {
+    "TeamID": 22,
+    "TeamName": "Detroit Pistons",
+    "TeamAbbr": "DET",
+    "Location": "Detroit/Michigan"
+  },
+  {
+    "TeamID": 23,
+    "TeamName": "Miami Heat",
+    "TeamAbbr": "MIA",
+    "Location": "Miami/Florida"
+  },
+  {
+    "TeamID": 24,
+    "TeamName": "Orlando Magic",
+    "TeamAbbr": "ORL",
+    "Location": "Orlando/Florida"
+  },
+  {
+    "TeamID": 25,
+    "TeamName": "Atlanta Hawks",
+    "TeamAbbr": "ATL",
+    "Location": "Atlanta/Georgia"
+  },
+  {
+    "TeamID": 26,
+    "TeamName": "Chicago Bulls",
+    "TeamAbbr": "CHI",
+    "Location": "Chicago/Illinois"
+  },
+  {
+    "TeamID": 27,
+    "TeamName": "San Antonio Spurs",
+    "TeamAbbr": "SAS",
+    "Location": "San Antonio/Texas"
+  },
+  {
+    "TeamID": 28,
+    "TeamName": "Dallas Mavericks",
+    "TeamAbbr": "DAL",
+    "Location": "Dallas/Texas"
+  },
+  {
+    "TeamID": 29,
+    "TeamName": "Memphis Grizzlies",
+    "TeamAbbr": "MEM",
+    "Location": "Memphis/Tennesee"
+  },
+  {
+    "TeamID": 30,
+    "TeamName": "Sacramento Kings",
+    "TeamAbbr": "SAC",
+    "Location": "Sacramento/California"
+  }
+]
